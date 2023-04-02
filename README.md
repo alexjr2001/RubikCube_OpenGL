@@ -2,5 +2,6 @@
 Implementation of a rubik's cube with OpenGL. 
 
 
-https://user-images.githubusercontent.com/63054183/207960792-ee81e907-ef11-4694-89c1-cfa48878d005.mp4
+<a href="https://www.youtube.com/watch?v=IJr-TZWdSPA"><img src="https://user-images.githubusercontent.com/63054183/229378615-a8bb467f-90b2-4624-92b7-c2e7d5f98a06.png" width="800">
+
 
