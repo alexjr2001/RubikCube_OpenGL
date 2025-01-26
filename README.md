@@ -1,6 +1,7 @@
 # RubikCube_OpenGL
 Implementation of a rubik's cube with OpenGL. The present repository stores a complete implementation of a Rubik's cube in C++ with OpenGL, it has a main animation and similar ones. The goal of this work was to understand all the principles of OpenGL and practicing computer graphics based on the webpage [learnopengl.com](https://learnopengl.com/).
 
+CLICK IN THE IMAGE!
 <p align="center"><a href="https://www.youtube.com/watch?v=IJr-TZWdSPA"><img src="https://user-images.githubusercontent.com/63054183/229378615-a8bb467f-90b2-4624-92b7-c2e7d5f98a06.png" width="800"></p>
 
 ### Libraries used
